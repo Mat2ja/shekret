@@ -6,5 +6,5 @@
 - Built with Materialize.css and plain old Javascript. 
 
 
-### [Live Demo (*Github Pages*)](shekret.vercel.app)
-### [Live Demo (*Vercel*)](shekret.vercel.app)
+### [Live Demo (*Github Pages*)](https://mat2ja.github.io/shekret/)
+### [Live Demo (*Vercel*)](https://shekret.vercel.app)
